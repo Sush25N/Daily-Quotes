@@ -40,6 +40,10 @@ var arrayofQuotes = [
     {
         "author": "Katherine Peasrson",
         "quote": "A draw without a plan is nothing more than a wish."
+    },
+    {
+        "author":"Salvador Dali",
+        "quote":Intelligence without ambition is a bird without wings."
     }
 
 ]
